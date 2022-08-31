@@ -8,6 +8,8 @@ setup(
     description='Library to remove js-style comments from JSON strings',
     author='linjackson',
     author_email='linjackson78@gmail.com',
+    maintainer='petri',
+    maintainer_email='petri@koodaamo.fi',
     url='https://github.com/koodaamo/nojsoncomments',
     keywords=['json', 'comment', 'javascript', 'parse'],
     classifiers=['Development Status :: 3 - Alpha', 'License :: OSI Approved :: MIT License',
